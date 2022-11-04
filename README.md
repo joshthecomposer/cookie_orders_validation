@@ -1,4 +1,4 @@
-# ASSIGNMENT TITLE
+# Cookie Orders With Validation
 This is an app created with Flask and MySQL to practice form validation
 ### Objectives:
 * Create a new schema and table for cookie orders and forward engineer
